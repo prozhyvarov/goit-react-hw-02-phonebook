@@ -17,6 +17,8 @@ export const Input = styled.input`
   font: inherit;
   cursor: pointer;
 `;
+
+
 export const Label = styled.label`
   display: flex;
   flex-direction: column;
