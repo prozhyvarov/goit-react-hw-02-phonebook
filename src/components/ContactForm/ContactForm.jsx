@@ -69,9 +69,4 @@ Form.propTypes = {
   onSubmit: PropTypes.func.isRequired,
 };
 
-Input.propTypes = {
-  value: PropTypes.string.isRequired,
-  onChange: PropTypes.func.isRequired,
-};
-
 export default ContactFrom;
